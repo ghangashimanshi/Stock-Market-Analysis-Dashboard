@@ -82,10 +82,6 @@ Once data is processed, open the dashboard:
 📁 power_bi/Stock_Market_Dashboard.pbix
 
 This dashboard includes:
-(or click below to download)
-
-📥 **Download:** [`Stock_Market_Dashboard.pbix`](power_bi/Stock_Market_Dashboard.pbix)
-
 
 | Visualization                    | Purpose                                       |
 | -------------------------------- | --------------------------------------------- |
